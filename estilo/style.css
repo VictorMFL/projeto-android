@@ -18,7 +18,6 @@
 
     --font-padrao: Arial, Verdana, Helvetica, sans-serif;
     --font-destaque: 'Bebas Neue', Arial;
-    --font-android: 'Android', Arial;
 }
 
 * {
@@ -62,7 +61,6 @@ header>p {
     padding-bottom: 20px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.219);
-
 }
 
 nav {
@@ -102,12 +100,12 @@ main {
 main h1 {
     font-weight: normal;
     color: var(--cor5);
-    font-family: var(--fonte-android);
+    font-family: 'Android';
     font-size: 1.8em;
 }
 
 main h2 {
-    font-family: var(--fonte-android);
+    font-family: 'Android';
     color: var(--cor4);
     font-size: 1.3em;
     font-weight: normal;
